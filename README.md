@@ -1,6 +1,6 @@
 # InfoScraper
 
-This project is a simple script to scrape information from websites. It uses the `selenium` library to fetch and parse the webpage.
+This project is a simple script to scrape information from websites. It uses the `selenium` library to fetch and parse the webpage. It uses perplexity.ai to fetch the information of the person entered.
 
 ## Installation
 
